@@ -21,6 +21,7 @@ int main(){
 }
 
 void stat(const double a[],int N,double c[]){
+    
     double sum, sum2, sumh = 0;
     double sumg = 1;
 
